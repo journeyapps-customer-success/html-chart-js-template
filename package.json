@@ -1,0 +1,28 @@
+{
+  "name": "chart",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "@types/node": "^10.11.6",
+    "css-loader": "^1.0.0",
+    "html-webpack-inline-source-plugin": "^0.0.10",
+    "html-webpack-plugin": "^3.2.0",
+    "node-sass": "^4.9.3",
+    "sass-loader": "^7.1.0",
+    "style-loader": "^0.23.1",
+    "superagent": "^4.0.0-beta.5",
+    "ts-loader": "^5.2.1",
+    "typescript": "^3.1.1",
+    "webpack": "^4.20.2",
+    "webpack-cli": "^3.1.2",
+    "yaml": "^1.0.0"
+  },
+  "dependencies": {
+    "chart.js": "^2.9.4",
+    "journey-iframe-client": "^0.2.0"
+  }
+}

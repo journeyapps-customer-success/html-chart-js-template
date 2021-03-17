@@ -1,0 +1,17 @@
+body {
+    height: 100%;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.chart-container {
+    position: relative;
+    margin: auto;
+    height: auto;
+    width: max(400px, 30vw);
+}
