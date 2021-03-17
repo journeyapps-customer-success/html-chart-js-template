@@ -79,7 +79,7 @@ var chartConfig = {
 };
 ```
 
-For more Chart.js options, please seee the [Chart.js docs](https://www.chartjs.org/docs/latest/)
+For more Chart.js options, please see the latest [Chart.js docs](https://www.chartjs.org/docs/latest/)
 
 3. Update your view.js to listen for the `mounted` event e.g.
 

@@ -1,6 +1,11 @@
 {
   "name": "chart",
-  "version": "1.0.0",
+  "version": "0.0.1",
+  "author": {
+    "name": "Michael Barnes",
+    "email": "michael@journeyapps.com",
+    "url": "https://github.com/michaelbarnes"
+  },
   "main": "index.js",
   "license": "MIT",
   "scripts": {
