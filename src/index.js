@@ -1,6 +1,4 @@
-const JourneyIFrameClient = require('journey-iframe-client');
-const Chart = require('chart.js');
-  
+const JourneyIFrameClient = require('journey-iframe-client');  
 const client = new JourneyIFrameClient();
 
 window.addEventListener('DOMContentLoaded', function () {
